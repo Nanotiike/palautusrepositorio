@@ -84,9 +84,9 @@ python-versions = ">=3.7"
 
 [[package]]
 name = "robotframework"
-version = "6.0"
+version = "6.0.1"
 description = "Generic automation framework for acceptance testing and robotic process automation (RPA)"
-category = "dev"
+category = "main"
 optional = false
 python-versions = ">=3.6"
 
@@ -119,7 +119,7 @@ testing = ["flake8 (<5)", "func-timeout", "jaraco.functools", "jaraco.itertools"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "e9d503bff6a7a3ac5b505864dc064e52e37670eae3c3bcde50cfdda765ffa6fc"
+content-hash = "fd6f81686abf17305ec5cd80b793247c7ba225196674130ea0488d97302ab2b2"
 
 [metadata.files]
 click = [
@@ -189,8 +189,8 @@ markupsafe = [
     {file = "MarkupSafe-2.1.1.tar.gz", hash = "sha256:7f91197cc9e48f989d12e4e6fbc46495c446636dfc81b9ccf50bb0ec74b91d4b"},
 ]
 robotframework = [
-    {file = "robotframework-6.0-py3-none-any.whl", hash = "sha256:fe3f4c6a88a93b8b404ccdbec35e022d237e8a381747523e651dddb501445b1f"},
-    {file = "robotframework-6.0.zip", hash = "sha256:db9498dad21369a6702384db057994628cd2cf0a172f5685be941c4bf94e242f"},
+    {file = "robotframework-6.0.1-py3-none-any.whl", hash = "sha256:5f665413845dfea603de1ed0d0ba8928748ccd2f9a558889822916d778731fbb"},
+    {file = "robotframework-6.0.1.zip", hash = "sha256:b2d9a82912dfd27aae7afaad64771c58f5d948ca9d64e3ae72b16721b5e022ea"},
 ]
 werkzeug = [
     {file = "Werkzeug-2.2.2-py3-none-any.whl", hash = "sha256:f979ab81f58d7318e064e99c4506445d60135ac5cd2e177a2de0089bfd4c9bd5"},
