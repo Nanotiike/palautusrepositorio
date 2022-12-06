@@ -1,4 +1,4 @@
-from tennis_game import TennisGame
+from tennis_new import TennisGame
 
 
 def main():
